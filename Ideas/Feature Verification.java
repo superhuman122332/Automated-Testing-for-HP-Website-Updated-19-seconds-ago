@@ -36,7 +36,7 @@ interface type <T>{
         driver.getElement(By.name("Search HP.com")).sendKeys("test" + keys.Enter);
         System.out.Println(search result)
               
-        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html/xmlsitemap")
+        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html/xmlsitemap 
         Webdriver deliver.actuate.openElement(By.name("Eventlistener")).sendKeys("EventPropogation" + keys.Enter);
         System.out.Println(country, language) 
         
