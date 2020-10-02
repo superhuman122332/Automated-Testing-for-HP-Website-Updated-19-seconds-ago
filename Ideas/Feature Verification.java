@@ -30,23 +30,23 @@ interface type <T>{
         
         driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html"); 
         driver.getElement(By.name("_Ox42bd")).sendKeys("0x4ebd" + keys.Enter);
-        System.out.Println($miniCart Container)
+        System.out.Println($miniCart Container);
         
-        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html
+        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html");
         driver.getElement(By.name("Search HP.com")).sendKeys("test" + keys.Enter);
-        System.out.Println(search result)
+        System.out.Println(search result);
               
-        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html/xmlsitemap 
+        driver.get("https://globalnav-pro.hp.com/us/en/globalhf.html/xmlsitemap");
         Webdriver deliver.actuate.openElement(By.name("Eventlistener")).sendKeys("EventPropogation" + keys.Enter);
-        System.out.Println(country, language) 
+        System.out.Println(country, language);
         
                        
     } 
     if (all && redirect (isTrue().store while (store = "hp.store.com"))) 
              
-        throw new(Country, Language)  
+        throw new(Country, Language);
         
-        String.Format ["https://globalnav-pro.hp.com/country/language/globalhf.html"]
+        bool String.Format ["https://globalnav-pro.hp.com/country/language/globalhf.html"] = true;
         
         Search Start Search = searchbar.exactsearch(Constants.Start)
         
