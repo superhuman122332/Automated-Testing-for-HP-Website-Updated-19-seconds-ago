@@ -9,8 +9,6 @@ import java.io.IOExceptions
 import java.io
 import java.util.hashmap 
 
- 
-
 public class main{
 
 interface type <T>{
