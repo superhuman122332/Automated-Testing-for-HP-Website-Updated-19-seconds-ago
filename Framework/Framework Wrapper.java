@@ -33,7 +33,7 @@ public class Algorithm{
      this.binding.test = true
      this.binding Url = "https://globalnav-pro.hp.com/at/de/globalhf.html"
      this.newLink = kind
-     this.localstorage = 
+     this.localstorage = ID
      
      Saucelabs.builder builder = Saucelabs.builder()
      .add("target.sl = ST.sl( " names, util, kind.Browsername)
