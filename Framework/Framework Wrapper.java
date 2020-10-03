@@ -69,15 +69,15 @@ public class Algorithm{
      .header("X-My-API-Key-Token", "012345678901234567890123456789ab").post(entity);
      
      private file extends <ByteOutputStream>.xlsx
-     remote Debugging = remote remote Debugging
-     remote remote Debugging = true
-     file_input = upload. github()
+     remote Debugging = remote remote Debugging;
+     remote remote Debugging = true;
+     file_input = upload. github();
      
     
-     local_storage(ID) = AnyAlgorithm.hashmap<ID, api key>
-     bool has api_key = true
+     local_storage(ID) = AnyAlgorithm.hashmap<ID, api key>;
+     bool has api_key = true;
      
-     return local_storage(ID)
+     return local_storage(ID);
           
      //to specify versions of the browser
      
