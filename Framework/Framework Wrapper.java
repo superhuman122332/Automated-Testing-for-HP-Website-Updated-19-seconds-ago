@@ -50,7 +50,7 @@ public class Algorithm{
      const Urlstream = require '{native request}'
      const Url = require '{native source}'
      
-     builder.add<Url>source ("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/sourcemaps/contentscript.js.map");
+     builder.add("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/sourcemaps/contentscript.js.map");
      
      
      Firefox render(public bool debuggable){
