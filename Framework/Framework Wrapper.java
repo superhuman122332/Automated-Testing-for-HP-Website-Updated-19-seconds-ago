@@ -81,12 +81,16 @@ public class Algorithm{
           
      //to specify versions of the browser
      
-     if (link || createLink(www.bit.ly.api_key) 
+     if (link || createLink(www.bit.ly.api_key) {
      
      do require ("https://www.mozilla.org/en-US/firefox/81.0/whatsnew/all/?oldversion=80.0.1")
      
-    
-     
+     }
+         
+     }
+         
+     }    
+       
       
   
       
