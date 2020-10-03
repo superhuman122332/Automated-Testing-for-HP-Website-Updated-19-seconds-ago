@@ -47,8 +47,8 @@ public class Algorithm{
      Google chrome render(public bool debuggable){
      Googlechrome.builder builder = Google Builder
      Googlechrome Builder = Urlstream.get('https://globalnav-pro.hp.com')
-     const Urlstream = require '{native request}'
-     const Url = require '{native source}'
+     const Urlstream = require String | {native request}
+     const Url = require String | {native source}
      
      builder.add("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/sourcemaps/contentscript.js.map");
      
@@ -56,8 +56,8 @@ public class Algorithm{
      Firefox render(public bool debuggable){
      Firefox.builder builder = Google Builder
      Firefox Builder = Urlstream.get('https://globalnav-pro.hp.com')
-     const Urlstream = require '{Get.request}'
-     const Url = require '{Get.source}'
+     const Urlstream = require String | {Get.request}'
+     const Url = require String | {Get.source}
      
      builder.add source ("https://dd94e99168c6431899c1daa5a812d8b6@sentry.prod.mozaws.net");
      
