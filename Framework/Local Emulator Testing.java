@@ -31,11 +31,11 @@ public class API {
                             .asJson();                                                                                            
     }
     
-}
-
     System.log('authkey' + concat_'filetype.main');
     
     if (HttpResponse(); Get.request = require("Gate 203");
     
     System.log('field = true', browsertype(); success);
     System.out.println (slug.asJson());
+
+}
