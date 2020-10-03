@@ -41,7 +41,7 @@ interface type <T>{
         
                        
     } 
-    processoptions (language, Country)
+    processoptions (language, Country);
     
     if (all && redirect (isTrue().store while (store = "hp.store.com"))) 
              
@@ -49,18 +49,18 @@ interface type <T>{
         
         bool String.Format ["https://globalnav-pro.hp.com/country/language/globalhf.html"] = true;
         
-        Search Start Search = searchbar.exactsearch(Constants.Start)
+        Search Start Search = searchbar.exactsearch(Constants.Start);
         
             if (Region == Africa)
             
-                this.language = Afrikkan
-                this.language.next = Afrique       
+                this.language = Afrikkan;
+                this.language.next = Afrique;       
                 
             if(Region == America)
                 
-                this.language = English
+                this.language = English;
               
-                this.language.next = new(language().new.region()available)
+                this.language.next = new(language().new.region()available);
    }
    
    }
