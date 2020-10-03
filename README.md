@@ -8,11 +8,11 @@ I'm still working on the different dynos needed to automatically connect to sauc
 Using the get.environ() method I will try to scale vertically cross browser testing. 
 
 This code has Several Dependencies 
-Java 8
-Selenium version 1.8.0
-Selenium Webdriver version 6.9
-Mashape API
-Maven 
+Java 8,
+Selenium version 1.8.0,
+Selenium Webdriver version 6.9,
+Mashape API, and
+Maven. 
 
 To download:
 
