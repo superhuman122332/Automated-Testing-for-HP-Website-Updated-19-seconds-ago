@@ -70,7 +70,7 @@ public class Algorithm{
      
      private file extends <ByteOutputStream>.xlsx
      remote Debugging = remote remote Debugging;
-     remote remote Debugging = true;
+     remote Debugging = true;
      file_input = upload. github();
      
     
