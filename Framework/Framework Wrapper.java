@@ -39,9 +39,9 @@ public class Algorithm{
      .add("target.sl = ST.sl( " names, util, kind.Browsername)
      for (int i = 0; i<url.size(); i++) {
         if (i>0) {
-          builder.add(",")
+          builder.add(",");
      }
-          builder.add(",")
+          builder.add(",");
      }
  
      Google chrome render(public bool debuggable){
