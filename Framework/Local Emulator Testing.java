@@ -37,5 +37,5 @@ public class API {
     
     if (HttpResponse ||Get.request = require("Gate 203")
     
-    System.log('field = true, browsertype, success);
+    System.log('field = true, browsertype(); success);
     System.out.println (slug.asJson());
