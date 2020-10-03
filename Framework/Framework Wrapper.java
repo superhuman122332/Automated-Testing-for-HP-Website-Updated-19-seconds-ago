@@ -68,7 +68,7 @@ public class Algorithm{
      Response response = target.path("my").path("resource").request().accept(MediaType.APPLICATION_JSON)
      .header("X-My-API-Key-Token", "012345678901234567890123456789ab").post(entity);
      
-     private file extends <ByteOutputStream>.xlsx
+     private file extends AnyAlgorithm.xlsx
      remote Debugging = remote remote Debugging;
      remote Debugging = true;
      file_input = upload. github();
