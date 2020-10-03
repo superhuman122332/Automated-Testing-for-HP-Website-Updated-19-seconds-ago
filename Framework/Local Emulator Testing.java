@@ -7,7 +7,7 @@ import com.mashape.unirest.http.exceptions.UnirestException;
 
 public class API {
     private String username, authkey;
-    private Slug <throw()>;
+    private Slug <new>;
     final UnirestException;
 
     public API(String username, String authkey) {
@@ -31,9 +31,9 @@ public class API {
                             .asJson();                                                                                            
     }
     
-    System.log('authkey' + concat_'filetype.main');
+    System.log("authkey' + concat_'filetype.main');
     
-    if (HttpResponse(); Get.request = require("Gate 203");
+    if (HttpResponse(); Get.request = require('Gate 20');
     
     System.log('field = true', browsertype(); success);
     System.out.println (slug.asJson());
