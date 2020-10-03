@@ -59,7 +59,7 @@ public class Algorithm{
      const Urlstream = require '{Get.request}'
      const Url = require '{Get.source}'
      
-     builder.add source ("https://dd94e99168c6431899c1daa5a812d8b6@sentry.prod.mozaws.net')
+     builder.add source ("https://dd94e99168c6431899c1daa5a812d8b6@sentry.prod.mozaws.net");
      
      Entity entity = createEntity();
      ClientConfig config = new ClientConfig();
