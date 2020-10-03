@@ -71,7 +71,7 @@ public class Algorithm{
      private file extends AnyAlgorithm.xlsx
      remote Debugging = remote remote Debugging;
      remote Debugging = true;
-     file_input = upload. github();
+     file_input = file.upload();
      
     
      local_storage(ID) = AnyAlgorithm.hashmap<ID, api key>;
