@@ -7,7 +7,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.IOExceptions
 import java.io
-import java.util.hashmap 
 
 public class main{
 
