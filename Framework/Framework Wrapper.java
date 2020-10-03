@@ -44,16 +44,16 @@ public class Algorithm{
           builder.add(",")
      }
  
-     Google chrome render(boolean debuggable){
+     Google chrome render(public bool debuggable){
      Googlechrome.builder builder = Google Builder
      Googlechrome Builder = Urlstream.get('https://globalnav-pro.hp.com')
      const Urlstream = require '{native request}'
      const Url = require '{native source}'
      
-     builder.add source ("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/sourcemaps/contentscript.js.map")
+     builder.add<Url>source ("chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/sourcemaps/contentscript.js.map");
      
      
-     Firefox render(boolean debuggable){
+     Firefox render(public bool debuggable){
      Firefox.builder builder = Google Builder
      Firefox Builder = Urlstream.get('https://globalnav-pro.hp.com')
      const Urlstream = require '{Get.request}'
