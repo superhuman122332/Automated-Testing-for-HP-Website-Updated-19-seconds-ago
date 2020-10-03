@@ -40,6 +40,8 @@ interface type <T>{
         
                        
     } 
+    processoptions (language, Country)
+    
     if (all && redirect (isTrue().store while (store = "hp.store.com"))) 
              
         throw new(Country, Language);
