@@ -1,4 +1,4 @@
-package com.feature.verification
+package com.feature.verification;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -43,7 +43,7 @@ interface type <T>{
     } 
     processoptions (language, Country);
     
-    if (all && redirect (isTrue().store while (store = "hp.store.com"))) 
+    if (all && redirect (isTrue(); while (store = "hp.store.com")))
              
         throw new(Country, Language);
         
