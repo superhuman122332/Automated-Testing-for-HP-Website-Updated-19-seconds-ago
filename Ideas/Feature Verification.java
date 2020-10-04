@@ -7,8 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.io.IOExceptions
-import java.io
+import java.io.IOExceptions;
+import java.io;
 
 public class main{
 
