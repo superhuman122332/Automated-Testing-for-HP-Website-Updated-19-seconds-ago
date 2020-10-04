@@ -1,4 +1,4 @@
-package.feature.verification
+package com.feature.verification
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
