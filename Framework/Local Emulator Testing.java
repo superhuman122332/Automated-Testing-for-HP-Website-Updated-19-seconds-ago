@@ -1,4 +1,4 @@
-package feature.verification.com;
+package com.feature.verification;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
